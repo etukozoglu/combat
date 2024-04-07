@@ -1,0 +1,15 @@
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.AssemblyInfoInputs.cache
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.AssemblyInfo.cs
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.csproj.CoreCompileInputs.cache
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.sourcelink.json
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\bin\Debug\net8.0\Combat.exe
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\bin\Debug\net8.0\Combat.deps.json
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\bin\Debug\net8.0\Combat.runtimeconfig.json
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\bin\Debug\net8.0\Combat.dll
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\bin\Debug\net8.0\Combat.pdb
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.dll
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\refint\Combat.dll
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.pdb
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\Combat.genruntimeconfig.cache
+C:\Users\tukoz\OneDrive\Bureau\live-coding-10-01-2024\c-projects\Combat\obj\Debug\net8.0\ref\Combat.dll
